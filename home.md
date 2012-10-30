@@ -9,3 +9,4 @@ Right now, I don't have anything here yet. I hope to change that soon.
 This isn't a comprehensive set of articles, just starting places.
 
 * [Marx](/marx)
+* [Deleuze & Guattari](/d-&-g)
