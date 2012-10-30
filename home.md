@@ -17,3 +17,22 @@ This isn't a comprehensive set of articles, just starting places.
 * [some thoughts on reading](/reading)
 * [Marx](/marx)
 * [Deleuze & Guattari](/d-&-g)
+
+## Books
+
+Much of this wiki will be notes on books I've read. Here's the list:
+
+### [Deleuze](/deleuze)
+
+* [Nietzsche & Philosophy](/nietzsche-&-philosophy)
+
+### [Hegel](/hegel)
+
+* [Phenomenology of Spirit](/phenomenology-of-spirit)
+
+### [Slavoj Žižek](/zizek)
+
+* [The Sublime Object of Ideology](/the-sublime-object-of-ideology)
+
+### Et cetera
+* [Economix: How our economy works (and doesn't work) in words and pictures - Goodwin & Burr](/economix)
