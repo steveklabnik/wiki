@@ -14,5 +14,6 @@ me](mailto:steve@steveklabnik.com) and let me know.
 
 This isn't a comprehensive set of articles, just starting places.
 
+* [some thoughts on reading](/reading)
 * [Marx](/marx)
 * [Deleuze & Guattari](/d-&-g)
