@@ -15,6 +15,7 @@ me](mailto:steve@steveklabnik.com) and let me know.
 This isn't a comprehensive set of articles, just starting places.
 
 * [some thoughts on reading](/reading)
+* [lecture notes on Delanda's 'Deleuze's new materialism and architecture'](/deleuze-and-the-use-of-the-genetic-algorithm-in-architecture)
 * [Marx](/marx)
 * [Deleuze & Guattari](/d-&-g)
 
