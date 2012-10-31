@@ -30,17 +30,17 @@ Much of this wiki will be notes on books I've read. Here's the list:
 
 ### Philosophy
 
-### [Deleuze](/deleuze)
+#### [Deleuze](/deleuze)
 
 * [Nietzsche & Philosophy](/nietzsche-&-philosophy)
 
-### [Hegel](/hegel)
+#### [Hegel](/hegel)
 
 * [Phenomenology of Spirit](/phenomenology-of-spirit)
 
-### [Slavoj Žižek](/zizek)
+#### [Slavoj Žižek](/zizek)
 
 * [The Sublime Object of Ideology](/the-sublime-object-of-ideology)
 
-### Et cetera
+#### Et cetera
 * [Economix: How our economy works (and doesn't work) in words and pictures - Goodwin & Burr](/economix)
