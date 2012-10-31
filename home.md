@@ -22,6 +22,14 @@ This isn't a comprehensive set of articles, just starting places.
 
 Much of this wiki will be notes on books I've read. Here's the list:
 
+### Ruby
+
+#### Et cetera
+
+* [Practical Object Oriented Design in Ruby: an Agile Primer, by Sandi Metz](/poodr)
+
+### Philosophy
+
 ### [Deleuze](/deleuze)
 
 * [Nietzsche & Philosophy](/nietzsche-&-philosophy)
