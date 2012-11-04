@@ -18,6 +18,7 @@ This isn't a comprehensive set of articles, just starting places.
 * [lecture notes on Delanda's 'Deleuze's new materialism and architecture'](/deleuze-and-the-use-of-the-genetic-algorithm-in-architecture)
 * [Marx](/marx)
 * [Deleuze & Guattari](/d-&-g)
+* [John Ebert on "Thousand Plateaus"](/john-ebert-thousand-plateaus)
 
 ## Books
 
