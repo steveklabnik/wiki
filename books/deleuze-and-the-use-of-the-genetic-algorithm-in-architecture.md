@@ -180,6 +180,7 @@ Deleuze's new materialism is very different and should revitalize the left
 ## Sources and resources
 
 * [lecture on iTunes](itmss://itunes.apple.com/us/itunes-u/manuel-delanda-deleuze-use/id412480536?i=90057056)
+* [text version](http://www.cddc.vt.edu/host/delanda/pages/algorithm.htm)
 * [Materialism on Wikipedia](http://en.wikipedia.org/wiki/Materialism)
 * [Genetic algorithms on Wikipedia](http://en.wikipedia.org/wiki/Genetic_algorithm)
 * [extensive vs intensive properties on Wikipedia](http://en.wikipedia.org/wiki/Intensive_and_extensive_properties)
