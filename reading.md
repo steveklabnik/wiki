@@ -64,7 +64,7 @@ Harsh Critic":
 > I know people who've read nothing who immediately saw what bodies without
 > organs were, given their own "habits,'" their own way of being one. This
 > second way of reading's quite different from the first, because it relates a
-> book directly to what's Outside. A book is a little cod in much more
+> book directly to what's Outside. A book is a little cog in much more
 > complicated external machinery. Writing is one flow among others, with no
 > special place in relation to the others, that comes into relations of
 > current, countercurrent, and eddy with other flows-- flows of shit, sperm,
