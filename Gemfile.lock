@@ -28,7 +28,7 @@ GEM
     pygments.rb (0.3.2)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rack (1.4.1)
+    rack (1.4.5)
     rack-protection (1.2.0)
       rack
     sanitize (2.0.3)
@@ -48,4 +48,5 @@ PLATFORMS
 DEPENDENCIES
   gollum
   puma
+  rack (~> 1.4.5)
   sinatra
