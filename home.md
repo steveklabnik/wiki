@@ -19,6 +19,7 @@ This isn't a comprehensive set of articles, just starting places.
 * [Marx](/marx)
 * [Deleuze & Guattari](/d-&-g)
 * [John Ebert on "Thousand Plateaus"](/john-ebert-thousand-plateaus)
+* [Historical Materialism](/historical-materialism)
 
 ## Books
 
