@@ -1,0 +1,12 @@
+assets:
+  - .css
+  - pygments.css|pyg:
+      - contents: " "
+      - pyg: { "ext" : ".css" }
+      - canon: True
+
+.rst|jinja|rst2html:
+  - assets
+#  - rst2html:
+#      { clargs: "--template=template.html" }
+
