@@ -13,8 +13,10 @@ legally online for free I try to link it as well. If I've missed
 something, `email me <mailto:steve@steveklabnik.com>`_ and let me know.
 
 
-Work in Progress
-----------------
+Philosophy
+----------
 
-There's actually nothing here so far. Fun!
+* `Historical Materialism`_.
 
+
+.. _Historical Materialism: articles/philosophy/historical-materialism.html
