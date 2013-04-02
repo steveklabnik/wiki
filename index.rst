@@ -17,6 +17,8 @@ Philosophy
 ----------
 
 * `Historical Materialism`_.
+* `Rhizome`_.
 
 
 .. _Historical Materialism: articles/philosophy/historical-materialism.html
+.. _Rhizome: articles/philosophy/rhizome.html
