@@ -20,6 +20,11 @@ little passages.
 A Thousand Plateaus is arborescent in the sense that it's a book, but
 rhizomatic in the sense that you should read it 'like playing a record.'
 
+Related Links
+=============
+
+* `This comment on Reddit <http://www.reddit.com/r/CriticalTheory/comments/1bfp7t/deleuze_and_guattaris_rhizome_concept_can_someone/c96sj0u>`_ is really good.
+
 
 Footnotes
 =========
