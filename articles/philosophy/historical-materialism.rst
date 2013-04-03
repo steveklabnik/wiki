@@ -5,6 +5,15 @@
 Overview
 ========
 
+1. History is based on a series of epochs. The epochs are determined by the 
+   predominant economic relations of the time, or 'mode of production.'
+2. This economic base informs the superstructure of the rest of society.
+3. We can't move stages without changing the base, which requires revolution
+   to fundamentally alter the relations of production.
+
+Let's dive in
+=============
+
 Given that historical materialism is one of the 'three components of
 Marxism'[#]_, I figured it'd be a good idea to deep dive into it.
 
@@ -108,14 +117,6 @@ progresses through these epochs, and they are demarcated through economic
 development. Each epoch has its own base and superstructure, and therefore,
 it's necessary to change those economic relations in order to transition to
 the next period of history.
-
-To sum up:
-
-1. History is based on a series of epochs. The epochs are determined by the 
-   predominant economic relations of the time, or 'mode of production.'
-2. This economic base informs the superstructure of the rest of society.
-3. We can't move stages without changing the base, which requires revolution
-   to fundamentally alter the relations of production.
 
 Footnotes
 =========
