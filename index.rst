@@ -19,6 +19,11 @@ Philosophy
 * `Historical Materialism`_.
 * `Rhizome`_.
 
+Books
+-----
+* `Sieze the Time`_.
+
 
 .. _Historical Materialism: articles/philosophy/historical-materialism.html
 .. _Rhizome: articles/philosophy/rhizome.html
+.. _Sieze the Time: articles/books/sieze-the-time.html
