@@ -1,3 +1,4 @@
 ---
 aws_bucket: wiki.steveklabnik.com
 skip_regex:    \.(rst)|(md)$
+path: output
