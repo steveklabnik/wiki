@@ -23,8 +23,10 @@ Books
 -----
 
 * `Sieze the Time`_.
+* `Vibrant Matter: a political ecology of things`_.
 
 
 .. _Historical Materialism: articles/philosophy/historical-materialism.html
 .. _Rhizome: articles/philosophy/rhizome.html
 .. _Sieze the Time: articles/books/sieze-the-time.html
+.. _Vibrant Matter\: a political ecology of things: articles/books/vibrant-matter.html
