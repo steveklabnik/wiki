@@ -24,9 +24,11 @@ Books
 
 * `Sieze the Time`_.
 * `Vibrant Matter: a political ecology of things`_.
+* `The Exploit: a theory of networks`_.
 
 
 .. _Historical Materialism: articles/philosophy/historical-materialism.html
 .. _Rhizome: articles/philosophy/rhizome.html
 .. _Sieze the Time: articles/books/sieze-the-time.html
 .. _Vibrant Matter\: a political ecology of things: articles/books/vibrant-matter.html
+.. _The Exploit\: a theory of networks: articles/books/the-exploit.html
