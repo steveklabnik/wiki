@@ -2,3 +2,7 @@
 output/
 output-long/
 logs/
+content/*.html
+index.html
+!content/header.html
+!content/footer.html
