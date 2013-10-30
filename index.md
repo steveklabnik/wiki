@@ -31,3 +31,7 @@ Open Source
 
 -   [Documentation](content/writing-documentation.html).
 
+Magic: the Gathering
+--------------------
+
+- [Theors Draft Report: 2013-10-29](content/mtg/2013-10-29-theros-draft-report.html).
