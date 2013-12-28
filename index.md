@@ -25,6 +25,7 @@ Books
 -   [Sieze the Time](content/sieze-the-time.html).
 -   [Vibrant Matter: a political ecology of things](content/vibrant-matter.html).
 -   [The Exploit: a theory of networks](content/the-exploit.html).
+-   [Ruby Under a Microscope](content/ruby-under-a-microscope.html).
 
 Open Source
 -----------
